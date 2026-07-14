@@ -1,0 +1,49 @@
+.banner {
+    background-image: url(./assets/banner-img.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 450px;
+    /* height: 75vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.classes {
+    background: linear-gradient(90deg, #fa7e64 10%, #ebab28 94%);
+    color: white;
+    padding: 40px 0px;
+    margin: 60px 0px;
+}
+
+.class_cardimg {
+    border: 8px solid white;
+}
+
+.box {
+    background: linear-gradient(90deg, #fa7e64 10%, #ebab28 94%);
+    color: white;
+}
+
+.money {
+    box-shadow: 0px 2px 5px 1px;
+}
+
+.testimonial {
+    background: linear-gradient(90deg, #fa7e64 10%, #ebab28 94%);
+}
+
+.testborder {
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.testborder2 {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
